@@ -31,7 +31,7 @@ A geosocial networking and online dating application that allows users to anonym
 * Users can post a picture of themselves
 * Users can like or dislike another user
 * If the user dislikes another user that user is removed from the feed
-* A list of people who liked your post
+* User can see who liked their photo
 * Users can send a private message to other user
 
 **Optional Nice-to-have Stories**
