@@ -33,6 +33,7 @@ A geosocial networking and online dating application that allows users to anonym
 * If the user dislikes another user that user is removed from the feed
 * User can see who liked their photo
 * Users can send a private message to other user
+* User can use filter to alter their feed
 
 **Optional Nice-to-have Stories**
 
@@ -49,6 +50,8 @@ A geosocial networking and online dating application that allows users to anonym
 * Stream
     * User can view a feed of photos
     * User can like or dislike the photo
+* Filter
+    * User can set age and distance range
 * Creation
     * User can post a photo
 * Chat
@@ -67,6 +70,7 @@ A geosocial networking and online dating application that allows users to anonym
 * Login
 * Main Screen
    * Main feed
+   * Filter
    * Your Profile
    * Your Matches feed
 * Main feed
