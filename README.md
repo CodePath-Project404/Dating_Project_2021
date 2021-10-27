@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-A geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other users' posted profiles, which generally comprise their photo, a short bio, and a list of their personal interests. 
+couple is a geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other users' posted profiles, which generally comprise their photo, a short bio, and a list of their personal interests. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
