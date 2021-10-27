@@ -77,15 +77,11 @@ A geosocial networking and online dating application that allows users to anonym
    * Press to see details
 
 ## Wireframes
-![image](https://user-images.githubusercontent.com/56774880/139128185-64e6181f-64dc-4d25-85c5-c010ae293cbc.png)
-![image](https://user-images.githubusercontent.com/56774880/139128221-cc3d3cf7-c490-4048-947f-a04ae91d4b11.png)
-![image](https://user-images.githubusercontent.com/56774880/139128253-7bc57f7f-c749-436a-b5e4-a11e40a9ddc2.png)
-![image](https://user-images.githubusercontent.com/56774880/139128309-a476abb3-f418-4f02-8c22-50699eb8f58b.png)
+<img src="](https://user-images.githubusercontent.com/56774880/139128185-64e6181f-64dc-4d25-85c5-c010ae293cbc.png" width=300>
+<img src="https://user-images.githubusercontent.com/56774880/139128221-cc3d3cf7-c490-4048-947f-a04ae91d4b11.png" width=300>
+<img src="https://user-images.githubusercontent.com/56774880/139128253-7bc57f7f-c749-436a-b5e4-a11e40a9ddc2.png" width=300>
+<img src="https://user-images.githubusercontent.com/56774880/139128309-a476abb3-f418-4f02-8c22-50699eb8f58b.png" width=300>
 
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
