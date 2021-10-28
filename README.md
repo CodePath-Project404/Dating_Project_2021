@@ -85,7 +85,25 @@ couple is a geosocial networking and online dating application that allows users
 
 
 ## Schema 
-[This section will be completed in Unit 9]
+# Feed
+| Property | Type | Description|
+| -------- | -------- | -------- |
+| ObejctId     | String     | unique id for the user post (default field)     |
+|author|pointer to pointer|image author|
+|image|file|image that user posts
+caption|string|	image caption by author
+createdAt|	DateTime|	date when post is created (default field)
+likesCount| Number | number of likes that has been posted to an image
+
+
+
+# Signup
+| Property | Type |Description |
+| -------- | -------- | -------- |
+| phoneNumber     | String     | A user's cell phone number     |
+birthday|String|A user's date of birth
+gender|String|User's gender
+
 ### Models
 [Add table of models]
 ### Networking
