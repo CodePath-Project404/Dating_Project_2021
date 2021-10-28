@@ -77,6 +77,7 @@ couple is a geosocial networking and online dating application that allows users
    * Press to see details
 
 ## Wireframes
+<img src="](https://user-images.githubusercontent.com/56774880/139321897-2d949be7-f99b-4284-8049-031a46be33f5.png" width=300>
 <img src="](https://user-images.githubusercontent.com/56774880/139128185-64e6181f-64dc-4d25-85c5-c010ae293cbc.png" width=300>
 <img src="https://user-images.githubusercontent.com/56774880/139128221-cc3d3cf7-c490-4048-947f-a04ae91d4b11.png" width=300>
 <img src="https://user-images.githubusercontent.com/56774880/139128253-7bc57f7f-c749-436a-b5e4-a11e40a9ddc2.png" width=300>
