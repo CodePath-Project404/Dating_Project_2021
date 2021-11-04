@@ -107,7 +107,7 @@ gender|String|User's gender
 ### Models
 [Add table of models]
 ### Networking
-- Home Feed Screen
+  - Home Feed Screen
       - (Read/GET) Query all posts where user's post was liked by another user
          ```swift
          let query = PFQuery(className:"Post")
