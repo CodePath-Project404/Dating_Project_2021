@@ -85,6 +85,7 @@ couple is a geosocial networking and online dating application that allows users
 
 
 ## Schema 
+### Models
 Feed
 | Property | Type | Description|
 | -------- | -------- | -------- |
@@ -104,8 +105,6 @@ Signup
 birthday|String|A user's date of birth
 gender|String|User's gender
 
-### Models
-[Add table of models]
 ### Networking
   - Home Feed Screen
       - (Read/GET) Query all posts where user's post was liked by another user
