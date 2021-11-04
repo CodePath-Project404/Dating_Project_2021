@@ -107,6 +107,24 @@ gender|String|User's gender
 ### Models
 [Add table of models]
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Home Feed Screen
+      - (Read/GET) Query all posts where user's post was liked by another user
+         ```swift
+         let query = PFQuery(className:"Post")
+         query.whereKey("Liked", equalTo: True)
+         query.order(byDescending: "createdAt")
+         query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
+            if let error = error { 
+               print(error.localizedDescription)
+            } else if let posts = posts {
+               print("Successfully retrieved \(posts.count) posts.")
+           // TODO: Do something with posts...
+            }
+         }
+         ```
+      - (Create/POST) Create a new like/dislike on a post
+      - (Delete) Delete existing like/dislike
+   - Create Post Screen
+      - (Create/POST) Create a new post object
+   - Private Chat Screen
+      - (Create/POST) Create a new comment on a post
