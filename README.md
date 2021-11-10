@@ -12,6 +12,12 @@ The following **required** functionality is completed:
 - [x] Users can take a photo, add a caption, and post it to "couple".
 
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://recordit.co/GXWtdbbkEc.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
