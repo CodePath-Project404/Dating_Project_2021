@@ -1,7 +1,23 @@
-Original App Design Project - README Template
+Original App Design Project
 ===
 
 # couple
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] Users can sign up to create a new account using Parse authentication.
+- [x] Users can log in and log out of their account.
+- [x] Users can take a photo, add a caption, and post it to "couple".
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://user-images.githubusercontent.com/56774880/137176033-ff01ebd9-908f-47f3-9674-be1aa8744648.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/vyWWVMpRVJ.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 ## Table of Contents
 1. [Overview](#Overview)
