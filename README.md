@@ -10,6 +10,7 @@ The following **required** functionality is completed:
 - [x] Users can sign up to create a new account using Parse authentication.
 - [x] Users can log in and log out of their account.
 - [x] Users can take a photo, add a caption, and post it to "couple".
+- [x] Users can like each others post and be added to a Like class.
 
 
 ## Video Walkthrough
@@ -17,6 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://user-images.githubusercontent.com/56774880/141044108-a5583a45-9b3d-4dcc-9177-1153da40faa4.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='Like.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 ## Table of Contents
 1. [Overview](#Overview)
