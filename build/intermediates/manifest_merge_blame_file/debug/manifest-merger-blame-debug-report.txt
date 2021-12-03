@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.codepath.couple"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:7:22-64
+13
+14    <queries>
+14-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:8:5-14:15
+15
+16        <!-- Camera -->
+17        <intent>
+17-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:11:9-13:18
+18            <action android:name="android.media.action.IMAGE_CAPTURE" />
+18-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:12:13-73
+18-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:12:21-70
+19        </intent>
+20    </queries>
+21
+22    <application
+22-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:16:5-66:19
+23        android:name="com.codepath.couple.ParseApplication"
+23-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:22:9-60
+24        android:allowBackup="true"
+24-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:18:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.5.0] C:\Users\ninja\.gradle\caches\transforms-3\97e7ec19bd11dff7ae3d399ac9d0fa5b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:19:9-43
+28        android:label="couple"
+28-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:20:9-31
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:21:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:24:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.couple"
+32-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:25:9-44
+33        android:usesCleartextTraffic="true" >
+33-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:23:9-44
+34        <provider
+34-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:27:9-40:20
+35            android:name="androidx.core.content.FileProvider"
+35-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:28:13-62
+36            android:authorities="com.codepath.couple"
+36-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:29:13-54
+37            android:exported="false"
+37-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:30:13-37
+38            android:grantUriPermissions="true" >
+38-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:31:13-47
+39            <meta-data
+39-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:36:13-39:51
+40                android:name="android.support.FILE_PROVIDER_PATHS"
+40-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:37:17-67
+41                android:resource="@xml/fileprovider" />
+41-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:38:17-53
+42        </provider>
+43
+44        <activity
+44-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:42:9-44:39
+45            android:name="com.codepath.couple.SignupActivity"
+45-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:43:13-62
+46            android:exported="true" />
+46-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:44:13-36
+47        <activity
+47-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:50:9-58:20
+48            android:name="com.codepath.couple.LoginActivity"
+48-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:51:13-61
+49            android:exported="true" >
+49-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:52:13-36
+50            <intent-filter>
+50-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:53:13-57:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:54:17-69
+51-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:54:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:56:17-77
+53-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:56:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity android:name="com.codepath.couple.MainActivity" >
+56-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:59:9-62:20
+56-->C:\Users\ninja\AndroidStudioProjects\couple\app\src\main\AndroidManifest.xml:60:13-60
+57        </activity>
+58    </application>
+59
+60</manifest>
