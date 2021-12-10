@@ -151,3 +151,5 @@ gender|String|User's gender
 ##licenses
  [chat-logo-license.pdf](https://github.com/CodePath-Project404/Dating_Project_2021/files/7693808/chat-logo-license.pdf)
 
+[OFL.txt](https://github.com/CodePath-Project404/Dating_Project_2021/files/7695476/OFL.txt)
+
