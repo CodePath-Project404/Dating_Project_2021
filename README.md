@@ -147,3 +147,7 @@ gender|String|User's gender
       - (Create/POST) Create a new post object
    - Private Chat Screen
       - (Create/POST) Create a new comment on a post
+
+##licenses
+ [chat-logo-license.pdf](https://github.com/CodePath-Project404/Dating_Project_2021/files/7693808/chat-logo-license.pdf)
+
