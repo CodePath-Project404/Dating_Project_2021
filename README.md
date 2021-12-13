@@ -11,7 +11,6 @@ The following **required** functionality is completed:
 - [x] Users can log in and log out of their account.
 - [x] Users can take a photo, add a caption, and post it to "couple".
 - [x] Users can like each others post and be added to a Like class.
-- [x] Users can choose to show only posts by users they liked.
 - [x] Users can filter posts by gender of other users.
 
 
