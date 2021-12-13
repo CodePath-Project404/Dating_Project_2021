@@ -123,10 +123,10 @@ likesCount| Number | number of likes that has been posted to an image
 Signup
 | Property | Type |Description |
 | -------- | -------- | -------- |
-| username     | String     | username     |
-|password| String| password
+| username     | String     | Username     |
+|password| String| Password
 |gender|String|User's gender|
-|age|int| user's age
+|age|int| User's age
 
 ### Networking
   - Home Feed Screen
@@ -152,7 +152,7 @@ Signup
       - (Create/POST) Create a new comment on a post
 
 ##licenses
- [chat-logo-license.pdf](https://github.com/CodePath-Project404/Dating_Project_2021/files/7693808/chat-logo-license.pdf)
+[chat-logo-license.pdf](https://github.com/CodePath-Project404/Dating_Project_2021/files/7693808/chat-logo-license.pdf)
 
 [OFL.txt](https://github.com/CodePath-Project404/Dating_Project_2021/files/7695476/OFL.txt)
 
