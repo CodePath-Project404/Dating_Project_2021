@@ -62,6 +62,8 @@ couple is a geosocial networking and online dating application that allows users
 
 ### 2. Screen Archetypes
 
+* Welcome page
+  * The first page user sees when they first opens up the app
 * Login screen
    * Users can log in
 * Registration Screen
@@ -70,7 +72,7 @@ couple is a geosocial networking and online dating application that allows users
     * User can view a feed of photos
     * User can like or dislike the photo
 * Filter
-    * User can set age and distance range
+    * User can search advance using gender filter
 * Creation
     * User can post a photo
 * Chat
@@ -83,6 +85,7 @@ couple is a geosocial networking and online dating application that allows users
 * Home
 * Profile
 * Chat
+* post compose
 
 **Flow Navigation** (Screen to Screen)
 
@@ -120,9 +123,10 @@ likesCount| Number | number of likes that has been posted to an image
 Signup
 | Property | Type |Description |
 | -------- | -------- | -------- |
-| phoneNumber     | String     | A user's cell phone number     |
-birthday|String|A user's date of birth
-gender|String|User's gender
+| username     | String     | username     |
+|password| String| password
+|gender|String|User's gender|
+|age|int| user's age
 
 ### Networking
   - Home Feed Screen
