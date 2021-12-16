@@ -19,10 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Matches.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-<img src='filter-gender.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-<img src='https://user-images.githubusercontent.com/56774880/141044108-a5583a45-9b3d-4dcc-9177-1153da40faa4.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-<img src='LikePT2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/56774880/146314927-c8c6137f-c92f-41aa-ac34-23d34dbbe13c.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 
 ## Table of Contents
 1. [Overview](#Overview)
